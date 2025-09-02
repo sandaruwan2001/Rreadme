@@ -8,15 +8,15 @@
 <h3 align="center">A Passionate Software Engineering Student & Freelancer from Sri Lanka 🇱🇰</h3>
 
 <table>
-  <tr>
-    <td valign="top" width="65%">
-      
+<tr>
+  <td valign="top" width="65%">
+    
 ## 👨‍💻 About Me
 
 I'm a passionate and proactive **Software Engineering Undergraduate** at the final stages of my degree, with a strong focus on building practical, user-centric solutions. As a freelance developer, I specialize in crafting custom web and mobile applications from scratch, turning great ideas into functional, efficient, and beautiful software.
 
 - 🎓 **Third-year SE Undergraduate** focused on real-world application.
-- 🌐 **Full-Stack Web Developer** using the MERN stack, PHP, and modern frameworks.
+- 🌐 **Full-Stack Web Developer** using PHP, JavaScript, and modern frameworks.
 - 📱 **Native Android Developer** with a keen eye for UI/UX.
 - 💡 Committed to writing **clean, scalable, and well-documented code**.
 - 🤝 **Open to freelance projects**, collaborations, and new opportunities.
@@ -37,9 +37,10 @@ I'm a passionate and proactive **Software Engineering Undergraduate** at the fin
   </a>
 </p>
       
-    </td>
-    <td valign="top" width="35%">
+  </td>
 
+  <td valign="top" width="35%">
+      
 ## 📊 GitHub Stats
       
 <p align="center">
@@ -48,8 +49,8 @@ I'm a passionate and proactive **Software Engineering Undergraduate** at the fin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaruwan2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-    </td>
-  </tr>
+  </td>
+</tr>
 </table>
 ## 🛠️ My Tech Stack
 *I am proficient in a variety of technologies for web and mobile development.*
